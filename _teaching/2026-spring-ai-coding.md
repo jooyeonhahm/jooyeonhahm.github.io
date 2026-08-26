@@ -9,4 +9,4 @@ location: "Stanford, CA"
 link: "https://events.stanford.edu/event/introduction-to-ai-assisted-coding-for-data-analysis"
 ---
 
- This introduces how programming languages work and develops your ability to recognize common Python patterns, from variables and functions to loops and conditionals. You’ll learn Python syntax and practice code literacy: understanding what code does and how to effectively leverage Gen AI models via Stanford AI Playground to generate and modify Python code for data cleaning and analysis.
+This workshop introduces how programming languages work and develops the ability to recognize common Python patterns, from variables and functions to loops and conditionals. It covers Python syntax and builds code literacy while introducing how to leverage Gen AI models to generate and modify Python code for data cleaning and analysis. It also addresses common mistakes, troubleshooting tips, and strategies for validating AI-generated code.
